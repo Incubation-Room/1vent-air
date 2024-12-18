@@ -1,0 +1,7 @@
+# Fichier de configuration pour l'entraînement YOLO
+
+train: ../images/train/
+val: ../images/val/
+nc: 4
+names: ['livre', 'bus', 'pied_coulisse', 'tube']
+
